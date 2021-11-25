@@ -12,4 +12,12 @@ bash <(curl -sL https://raw.githubusercontent.com/dewyidt/hijk/main/ssr.sh)
 
 SS
 
+cent os 8
+
 bash <(curl -sL https://s.hijk.art/ss.sh)
+
+or
+
+bash <(curl -sL https://raw.githubusercontent.com/dewyidt/hijk/main/ss.sh)
+
+
