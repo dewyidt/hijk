@@ -6,5 +6,5 @@ bash <(curl -sL https://s.hijk.art/ssr.sh)
 
 or
 
-bash <(curl -sL https://github.com/dewyidt/hijk/blob/main/ssr.sh)
+bash <(curl -sL https://raw.githubusercontent.com/dewyidt/hijk/main/ssr.sh)
 
